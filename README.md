@@ -46,5 +46,5 @@ Screen Shot 2021-05-01 at 9.57.02 AM![image](https://user-images.githubuserconte
 
 ## Link
 
-https://smalakidev.github.io/My-Portfolio/
+
 
