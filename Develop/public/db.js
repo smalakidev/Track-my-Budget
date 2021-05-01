@@ -6,3 +6,16 @@ request.onupgradeneeded = function(event) {
    const db = event.target.result;
    db.createObjectStore("pending", { autoIncrement: true });
  };
+
+ //if and else statement 
+
+ request.onsuccess = function(event) {
+    db = event.target.result;
+    if (navigator.onLine) {
+        
+        checkDatabase();
+    
+    } 
+       
+    
+};
